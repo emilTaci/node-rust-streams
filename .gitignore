@@ -1,0 +1,5 @@
+/target
+/node-app/files
+/node-app/source.txt
+.DS_Store
+.vscode/settings.json
